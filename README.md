@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Injam Hossan Rupom
 #### I am WordPress Developer & Graphic Designer 
-(https://linkedin.com/in/injamhossanmamun)
+https://www.facebook.com/profile.php?id=100042851742623&mibextid=ZbWKwL
 
 I am WordPress & Web Designer. I always love to learn I love to learn new things. I am always confident in my work. I have done Graphic design & SEO for a long time. So now I'm learning a new skills. I always give 100% satisfied to my clients.
 
