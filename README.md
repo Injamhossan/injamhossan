@@ -1,14 +1,14 @@
-### Hi there 👋, I'm Injam Hossan Rupom
-#### I am WordPress Developer & Graphic Designer 
-https://www.facebook.com/profile.php?id=100042851742623&mibextid=ZbWKwL
+### Hi there 👋, I'm Injam Hossan Mamun
+#### I am MERN Stack Developer & Graphic Designer 
+https://www.facebook.com/inajmhossan33
 
-I am WordPress & Web Designer. I always love to learn I love to learn new things. I am always confident in my work. I have done Graphic design & SEO for a long time. So now I'm learning a new skills. I always give 100% satisfied to my clients.
+I am a MERN Stack Developer and Graphic Designer. I love to learn new things, and I am always confident in my work. I have done Graphic design and SEO for a long time, so now I'm learning new skills. I always give 100% satisfaction to my clients.
 
-Skills: Adobe Illustrator / HTML / CSS / JavaScript / BootStrap / PHP
+Skills: Adobe Illustrator / HTML / CSS / JavaScript / BootStrap / React / Next JS / Express JS / Mongo DB
 
 - 🔭 I’m currently working on Fair Hospital & CTMRI Center 
 - 🌱 I’m currently learning Docker 
-- 👯 I’m looking to collaborate on Github 
+- 👯 I’m looking to collaborate on GitHub 
 - 🤔 I’m looking for help with Java Expert 
 
 
