@@ -1,4 +1,7 @@
-<img src = "https://i.ibb.co.com/5hV9FqQN/Blue-Minimalist-Game-Developer-Linked-In-Banner-2.png">
+<p align="center">
+  <img src="https://i.ibb.co.com/5hV9FqQN/Blue-Minimalist-Game-Developer-Linked-In-Banner-2.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Injam Hossan Mamun</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
