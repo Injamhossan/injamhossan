@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://injamhossan.com]([https://injamhossan-33](https://injamhossan-33.netlify.app/))
+- 👨‍💻 All of my projects are available at [https://injamhossan-33.netlify.app/](https://injamhossan-33.netlify.app/)
 
 - 💬 Ask me about **React**
 
