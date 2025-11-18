@@ -21,7 +21,7 @@
     <td valign="top" width="50%">
       <h2>🚀 About Me</h2>
       <p>
-        I am a passionate <b>MERN Stack Developer</b> from Bangladesh, currently expanding my knowledge in <b>Cyber Security</b>. I love building scalable web applications and exploring new technologies.
+        I am a passionate <b>MERN Stack Developer</b> from Bangladesh, currently expanding my knowledge in <b> Cybersecurity </b>. I love building scalable web applications and exploring new technologies.
       </p>
       <ul>
         <li>🌱 I’m currently learning <b>Cyber Security</b> & <b>Advanced React</b></li>
@@ -35,7 +35,6 @@
     <a href="https://linkedin.com/in/injamhossanmamun" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="injamhossanmamun"/></a>
     <a href="https://twitter.com/injamhossan" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="injamhossan"/></a>
     <a href="https://fb.com/injamhossan33" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="injamhossan33"/></a>
-    <a href="https://instagram.com/injam_hossan_33" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="injam_hossan_33"/></a>
    </p>
     </td>
     <td valign="top" width="50%">
@@ -57,7 +56,6 @@
 <p>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
-  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -74,7 +72,6 @@
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
