@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/5hV9FqQN/Blue-Minimalist-Game-Developer-Linked-In-Banner-2.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/3YkW4V1C/Blue-and-White-Isometric-Programmer-Linked-In-Banner.png" alt="Banner" width="100%" />
 </div>
 
 <br/>
