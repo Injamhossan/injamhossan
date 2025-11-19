@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co.com/bM0RSMr0/banner-e.png" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co.com/DDsd0m7K/Bannner.jpg" alt="Banner" width="100%" />
 </div>
 
 <br/>
@@ -8,10 +8,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Injam;MERN+Stack+Developer;Cyber+Security+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=injamhossan&label=Profile%20views&color=0e75b6&style=flat-square" alt="injamhossan" />
 </div>
 
 <hr/>
@@ -83,6 +79,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=injamhossan&bg_color=0d1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=injamhossan&label=Profile%20views&color=0e75b6&style=flat-square" alt="injamhossan" />
+</div>
+
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
