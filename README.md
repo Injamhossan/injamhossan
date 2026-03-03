@@ -43,12 +43,12 @@ I enjoy working with **React & Next.js**, learning modern backend technologies, 
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,go,firebase,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,mongodb,go,firebase,postgres,prisma" />
 </p>
 
 ### 🧰 Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,ps,vscode,netlify,vercel,pnpm,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma,ai,ps,vscode,netlify,vercel,pnpm,docker,gcp" />
 </p>
 
 ---
